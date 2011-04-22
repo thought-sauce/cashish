@@ -1,0 +1,22 @@
+Cashish
+=======
+
+Storing Currency as Integers
+Cashish (will) make it easy to display this with the right number of decimal places.
+As well as creating a simple "Amount" object you can perform arithmetic on.
+
+Example
+=======
+
+    gbp = Cashish::Amount.new(1_000_000_00, "GBP")
+    
+    gbp.to_s
+    => "1,000,000.00 GBP"
+    
+    gbp.to_f
+    => 1_000_000.00
+    
+    gbp.to_s(:simple)
+    => "1000000.00"
+    
+    
