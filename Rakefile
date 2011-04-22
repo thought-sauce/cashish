@@ -21,7 +21,7 @@ spec = Gem::Specification.new do |s|
 
   # Change these as appropriate
   s.name              = "cashish"
-  s.version           = "0.1.0"
+  s.version           = "0.2.0"
   s.summary           = "Currency Handling done simple"
   s.author            = "Thought Sauce"
   s.email             = "hello@thought-sauce.com"
