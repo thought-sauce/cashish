@@ -1,0 +1,1062 @@
+AED:
+  num: 784
+  currency: United Arab Emirates dirham
+  e: 2
+  locations: "United Arab Emirates"
+
+AFN:
+  num: 971
+  currency: Afghan afghani
+  e: 2
+  locations: "Afghanistan"
+
+ALL:
+  num: 008
+  currency: Albanian lek
+  e: 2
+  locations: "Albania"
+
+AMD:
+  num: 051
+  currency: Armenian dram
+  e: 2
+  locations: "Armenia"
+
+ANG:
+  num: 532
+  currency: Netherlands Antillean guilder
+  e: 2
+  locations: "Curaao, Sint Maarten"
+
+AOA:
+  num: 973
+  currency: Angolan kwanza
+  e: 2
+  locations: "Angola"
+
+ARS:
+  num: 032
+  currency: Argentine peso
+  e: 2
+  locations: "Argentina"
+
+AUD:
+  num: 036
+  currency: Australian dollar
+  e: 2
+  locations: "Australia, Australian Antarctic Territory, Christmas Island, Cocos (Keeling) Islands, Heard and McDonald Islands, Kiribati, Nauru, Norfolk Island, Tuvalu"
+
+AWG:
+  num: 533
+  currency: Aruban florin
+  e: 2
+  locations: "Aruba"
+
+AZN:
+  num: 944
+  currency: Azerbaijani manat
+  e: 2
+  locations: "Azerbaijan"
+
+BAM:
+  num: 977
+  currency: Bosnia and Herzegovina convertible mark
+  e: 2
+  locations: "Bosnia and Herzegovina"
+
+BBD:
+  num: 052
+  currency: Barbados dollar
+  e: 2
+  locations: "Barbados"
+
+BDT:
+  num: 050
+  currency: Bangladeshi taka
+  e: 2
+  locations: "Bangladesh"
+
+BGN:
+  num: 975
+  currency: Bulgarian lev
+  e: 2
+  locations: "Bulgaria"
+
+BHD:
+  num: 048
+  currency: Bahraini dinar
+  e: 3
+  locations: "Bahrain"
+
+BIF:
+  num: 108
+  currency: Burundian franc
+  e: 0
+  locations: "Burundi"
+
+BMD:
+  num: 060
+  currency: Bermudian dollar (customarily known as Bermuda dollar)
+  e: 2
+  locations: "Bermuda"
+
+BND:
+  num: 096
+  currency: Brunei dollar
+  e: 2
+  locations: "Brunei, Singapore"
+
+BOB:
+  num: 068
+  currency: Boliviano
+  e: 2
+  locations: "Bolivia"
+
+BOV:
+  num: 984
+  currency: Bolivian Mvdol (funds code)
+  e: 2
+  locations: "Bolivia"
+
+BRL:
+  num: 986
+  currency: Brazilian real
+  e: 2
+  locations: "Brazil"
+
+BSD:
+  num: 044
+  currency: Bahamian dollar
+  e: 2
+  locations: "Bahamas"
+
+BTN:
+  num: 064
+  currency: Bhutanese ngultrum
+  e: 2
+  locations: "Bhutan"
+
+BWP:
+  num: 072
+  currency: Botswana pula
+  e: 2
+  locations: "Botswana"
+
+BYR:
+  num: 974
+  currency: Belarusian ruble
+  e: 0
+  locations: "Belarus"
+
+BZD:
+  num: 084
+  currency: Belize dollar
+  e: 2
+  locations: "Belize"
+
+CAD:
+  num: 124
+  currency: Canadian dollar
+  e: 2
+  locations: "Canada"
+
+CDF:
+  num: 976
+  currency: Congolese franc
+  e: 2
+  locations: "Democratic Republic of Congo"
+
+CHE:
+  num: 947
+  currency: WIR Bank (complementary currency)
+  e: 2
+  locations: "Switzerland"
+
+CHF:
+  num: 756
+  currency: Swiss franc
+  e: 2
+  locations: "Switzerland, Liechtenstein"
+
+CHW:
+  num: 948
+  currency: WIR Bank (complementary currency)
+  e: 2
+  locations: "Switzerland"
+
+CLF:
+  num: 990
+  currency: Unidad de Fomento (funds code)
+  e: 0
+  locations: "Chile"
+
+CLP:
+  num: 152
+  currency: Chilean peso
+  e: 0
+  locations: "Chile"
+
+CNY:
+  num: 156
+  currency: Chinese yuan
+  e: 2
+  locations: "China (Mainland)"
+
+COP:
+  num: 170
+  currency: Colombian peso
+  e: 2
+  locations: "Colombia"
+
+COU:
+  num: 970
+  currency: Unidad de Valor Real
+  e: 2
+  locations: "Colombia"
+
+CRC:
+  num: 188
+  currency: Costa Rican colon
+  e: 2
+  locations: "Costa Rica"
+
+CUC:
+  num: 931
+  currency: Cuban convertible peso
+  e: 2
+  locations: "Cuba"
+
+CUP:
+  num: 192
+  currency: Cuban peso
+  e: 2
+  locations: "Cuba"
+
+CVE:
+  num: 132
+  currency: Cape Verde escudo
+  e: 0
+  locations: "Cape Verde"
+
+CZK:
+  num: 203
+  currency: Czech koruna
+  e: 2
+  locations: "Czech Republic"
+
+DJF:
+  num: 262
+  currency: Djiboutian franc
+  e: 0
+  locations: "Djibouti"
+
+DKK:
+  num: 208
+  currency: Danish krone
+  e: 2
+  locations: "Denmark, Faroe Islands, Greenland"
+
+DOP:
+  num: 214
+  currency: Dominican peso
+  e: 2
+  locations: "Dominican Republic"
+
+DZD:
+  num: 012
+  currency: Algerian dinar
+  e: 2
+  locations: "Algeria"
+
+EGP:
+  num: 818
+  currency: Egyptian pound
+  e: 2
+  locations: "Egypt"
+
+ERN:
+  num: 232
+  currency: Eritrean nakfa
+  e: 2
+  locations: "Eritrea"
+
+ETB:
+  num: 230
+  currency: Ethiopian birr
+  e: 2
+  locations: "Ethiopia"
+
+EUR:
+  num: 978
+  currency: Euro
+  e: 2
+  locations: "17 European Union countries, Andorra, Kosovo, Monaco, Montenegro, San Marino, Vatican City; see eurozone"
+
+FJD:
+  num: 242
+  currency: Fiji dollar
+  e: 2
+  locations: "Fiji"
+
+FKP:
+  num: 238
+  currency: Falkland Islands pound
+  e: 2
+  locations: "Falkland Islands"
+
+GBP:
+  num: 826
+  currency: Pound sterling
+  e: 2
+  locations: "United Kingdom, Crown Dependencies (the Isle of Man and the Channel Islands), certain British Overseas Territories (South Georgia and the South Sandwich Islands, British Antarctic Territory and British Indian Ocean Territory)"
+
+GEL:
+  num: 981
+  currency: Georgian lari
+  e: 2
+  locations: "Georgia"
+
+GHS:
+  num: 936
+  currency: Ghanaian cedi
+  e: 2
+  locations: "Ghana"
+
+GIP:
+  num: 292
+  currency: Gibraltar pound
+  e: 2
+  locations: "Gibraltar"
+
+GMD:
+  num: 270
+  currency: Gambian dalasi
+  e: 2
+  locations: "Gambia"
+
+GNF:
+  num: 324
+  currency: Guinean franc
+  e: 0
+  locations: "Guinea"
+
+GTQ:
+  num: 320
+  currency: Guatemalan quetzal
+  e: 2
+  locations: "Guatemala"
+
+GYD:
+  num: 328
+  currency: Guyanese dollar
+  e: 2
+  locations: "Guyana"
+
+HKD:
+  num: 344
+  currency: Hong Kong dollar
+  e: 2
+  locations: "Hong Kong Special Administrative Region, Macau Special Administrative Region"
+
+HNL:
+  num: 340
+  currency: Honduran lempira
+  e: 2
+  locations: "Honduras"
+
+HRK:
+  num: 191
+  currency: Croatian kuna
+  e: 2
+  locations: "Croatia"
+
+HTG:
+  num: 332
+  currency: Haitian gourde
+  e: 2
+  locations: "Haiti"
+
+HUF:
+  num: 348
+  currency: Hungarian forint
+  e: 2
+  locations: "Hungary"
+
+IDR:
+  num: 360
+  currency: Indonesian rupiah
+  e: 0
+  locations: "Indonesia"
+
+ILS:
+  num: 376
+  currency: Israeli new sheqel
+  e: 2
+  locations: "Israel"
+
+INR:
+  num: 356
+  currency: Indian rupee
+  e: 2
+  locations: "Bhutan, India"
+
+IQD:
+  num: 368
+  currency: Iraqi dinar
+  e: 0
+  locations: "Iraq"
+
+IRR:
+  num: 364
+  currency: Iranian rial
+  e: 0
+  locations: "Iran"
+
+ISK:
+  num: 352
+  currency: Icelandic krna
+  e: 0
+  locations: "Iceland"
+
+JMD:
+  num: 388
+  currency: Jamaican dollar
+  e: 2
+  locations: "Jamaica"
+
+JOD:
+  num: 400
+  currency: Jordanian dinar
+  e: 3
+  locations: "Jordan"
+
+JPY:
+  num: 392
+  currency: Japanese yen
+  e: 0
+  locations: "Japan"
+
+KES:
+  num: 404
+  currency: Kenyan shilling
+  e: 2
+  locations: "Kenya"
+
+KGS:
+  num: 417
+  currency: Kyrgyzstani som
+  e: 2
+  locations: "Kyrgyzstan"
+
+KHR:
+  num: 116
+  currency: Cambodian riel
+  e: 2
+  locations: "Cambodia"
+
+KMF:
+  num: 174
+  currency: Comoro franc
+  e: 0
+  locations: "Comoros"
+
+KPW:
+  num: 408
+  currency: North Korean won
+  e: 0
+  locations: "North Korea"
+
+KRW:
+  num: 410
+  currency: South Korean won
+  e: 0
+  locations: "South Korea"
+
+KWD:
+  num: 414
+  currency: Kuwaiti dinar
+  e: 3
+  locations: "Kuwait"
+
+KYD:
+  num: 136
+  currency: Cayman Islands dollar
+  e: 2
+  locations: "Cayman Islands"
+
+KZT:
+  num: 398
+  currency: Kazakhstani tenge
+  e: 2
+  locations: "Kazakhstan"
+
+LAK:
+  num: 418
+  currency: Lao kip
+  e: 0
+  locations: "Laos"
+
+LBP:
+  num: 422
+  currency: Lebanese pound
+  e: 0
+  locations: "Lebanon"
+
+LKR:
+  num: 144
+  currency: Sri Lanka rupee
+  e: 2
+  locations: "Sri Lanka"
+
+LRD:
+  num: 430
+  currency: Liberian dollar
+  e: 2
+  locations: "Liberia"
+
+LSL:
+  num: 426
+  currency: Lesotho loti
+  e: 2
+  locations: "Lesotho"
+
+LTL:
+  num: 440
+  currency: Lithuanian litas
+  e: 2
+  locations: "Lithuania"
+
+LVL:
+  num: 428
+  currency: Latvian lats
+  e: 2
+  locations: "Latvia"
+
+LYD:
+  num: 434
+  currency: Libyan dinar
+  e: 3
+  locations: "Libya"
+
+MAD:
+  num: 504
+  currency: Moroccan dirham
+  e: 2
+  locations: "Morocco, Western Sahara"
+
+MDL:
+  num: 498
+  currency: Moldovan leu
+  e: 2
+  locations: "Moldova (except Transnistria)"
+
+MGA:
+  num: 969
+  currency: Malagasy ariary
+  e: 0.69897...[2]
+  locations: "Madagascar"
+
+MKD:
+  num: 807
+  currency: Macedonian denar
+  e: 2
+  locations: "Republic of Macedonia"
+
+MMK:
+  num: 104
+  currency: Myanma kyat
+  e: 0
+  locations: "Myanmar"
+
+MNT:
+  num: 496
+  currency: Mongolian tugrik
+  e: 2
+  locations: "Mongolia"
+
+MOP:
+  num: 446
+  currency: Macanese pataca
+  e: 1
+  locations: "Macau Special Administrative Region"
+
+MRO:
+  num: 478
+  currency: Mauritanian ouguiya
+  e: 0.69897...[2]
+  locations: "Mauritania"
+
+MUR:
+  num: 480
+  currency: Mauritian rupee
+  e: 2
+  locations: "Mauritius"
+
+MVR:
+  num: 462
+  currency: Maldivian rufiyaa
+  e: 2
+  locations: "Maldives"
+
+MWK:
+  num: 454
+  currency: Malawian kwacha
+  e: 2
+  locations: "Malawi"
+
+MXN:
+  num: 484
+  currency: Mexican peso
+  e: 2
+  locations: "Mexico"
+
+MXV:
+  num: 979
+  currency: Mexican Unidad de Inversion (UDI) (funds code)
+  e: 2
+  locations: "Mexico"
+
+MYR:
+  num: 458
+  currency: Malaysian ringgit
+  e: 2
+  locations: "Malaysia"
+
+MZN:
+  num: 943
+  currency: Mozambican metical
+  e: 2
+  locations: "Mozambique"
+
+NAD:
+  num: 516
+  currency: Namibian dollar
+  e: 2
+  locations: "Namibia"
+
+NGN:
+  num: 566
+  currency: Nigerian naira
+  e: 2
+  locations: "Nigeria"
+
+NIO:
+  num: 558
+  currency: Cordoba oro
+  e: 2
+  locations: "Nicaragua"
+
+NOK:
+  num: 578
+  currency: Norwegian krone
+  e: 2
+  locations: "Norway, Svalbard, Jan Mayen, Bouvet Island, Queen Maud Land, Peter I Island"
+
+NPR:
+  num: 524
+  currency: Nepalese rupee
+  e: 2
+  locations: "Nepal"
+
+NZD:
+  num: 554
+  currency: New Zealand dollar
+  e: 2
+  locations: "Cook Islands, New Zealand, Niue, Pitcairn, Tokelau"
+
+OMR:
+  num: 512
+  currency: Omani rial
+  e: 3
+  locations: "Oman"
+
+PAB:
+  num: 590
+  currency: Panamanian balboa
+  e: 2
+  locations: "Panama"
+
+PEN:
+  num: 604
+  currency: Peruvian nuevo sol
+  e: 2
+  locations: "Peru"
+
+PGK:
+  num: 598
+  currency: Papua New Guinean kina
+  e: 2
+  locations: "Papua New Guinea"
+
+PHP:
+  num: 608
+  currency: Philippine peso
+  e: 2
+  locations: "Philippines"
+
+PKR:
+  num: 586
+  currency: Pakistani rupee
+  e: 2
+  locations: "Pakistan"
+
+PLN:
+  num: 985
+  currency: Polish zoty
+  e: 2
+  locations: "Poland"
+
+PYG:
+  num: 600
+  currency: Paraguayan guaran
+  e: 0
+  locations: "Paraguay"
+
+QAR:
+  num: 634
+  currency: Qatari rial
+  e: 2
+  locations: "Qatar"
+
+RON:
+  num: 946
+  currency: Romanian new leu
+  e: 2
+  locations: "Romania"
+
+RSD:
+  num: 941
+  currency: Serbian dinar
+  e: 2
+  locations: "Serbia"
+
+RUB:
+  num: 643
+  currency: Russian rouble
+  e: 2
+  locations: "Russia, Abkhazia, South Ossetia"
+
+RWF:
+  num: 646
+  currency: Rwandan franc
+  e: 0
+  locations: "Rwanda"
+
+SAR:
+  num: 682
+  currency: Saudi riyal
+  e: 2
+  locations: "Saudi Arabia"
+
+SBD:
+  num: 090
+  currency: Solomon Islands dollar
+  e: 2
+  locations: "Solomon Islands"
+
+SCR:
+  num: 690
+  currency: Seychelles rupee
+  e: 2
+  locations: "Seychelles"
+
+SDG:
+  num: 938
+  currency: Sudanese pound
+  e: 2
+  locations: "Sudan"
+
+SEK:
+  num: 752
+  currency: Swedish krona/kronor
+  e: 2
+  locations: "Sweden"
+
+SGD:
+  num: 702
+  currency: Singapore dollar
+  e: 2
+  locations: "Singapore, Brunei"
+
+SHP:
+  num: 654
+  currency: Saint Helena pound
+  e: 2
+  locations: "Saint Helena"
+
+SLL:
+  num: 694
+  currency: Sierra Leonean leone
+  e: 0
+  locations: "Sierra Leone"
+
+SOS:
+  num: 706
+  currency: Somali shilling
+  e: 2
+  locations: "Somalia (except Somaliland)"
+
+SRD:
+  num: 968
+  currency: Surinamese dollar
+  e: 2
+  locations: "Suriname"
+
+STD:
+  num: 678
+  currency: So Tom and Prncipe dobra
+  e: 0
+  locations: "So Tom and Prncipe"
+
+SYP:
+  num: 760
+  currency: Syrian pound
+  e: 2
+  locations: "Syria"
+
+SZL:
+  num: 748
+  currency: Lilangeni
+  e: 2
+  locations: "Swaziland"
+
+THB:
+  num: 764
+  currency: Thai baht
+  e: 2
+  locations: "Thailand"
+
+TJS:
+  num: 972
+  currency: Tajikistani somoni
+  e: 2
+  locations: "Tajikistan"
+
+TMT:
+  num: 934
+  currency: Turkmenistani manat
+  e: 2
+  locations: "Turkmenistan"
+
+TND:
+  num: 788
+  currency: Tunisian dinar
+  e: 3
+  locations: "Tunisia"
+
+TOP:
+  num: 776
+  currency: Tongan paanga
+  e: 2
+  locations: "Tonga"
+
+TRY:
+  num: 949
+  currency: Turkish lira
+  e: 2
+  locations: "Turkey, Northern Cyprus"
+
+TTD:
+  num: 780
+  currency: Trinidad and Tobago dollar
+  e: 2
+  locations: "Trinidad and Tobago"
+
+TWD:
+  num: 901
+  currency: New Taiwan dollar
+  e: 2
+  locations: "Taiwan and other islands that are under the effective control of the Republic of China (ROC)"
+
+TZS:
+  num: 834
+  currency: Tanzanian shilling
+  e: 2
+  locations: "Tanzania"
+
+UAH:
+  num: 980
+  currency: Ukrainian hryvnia
+  e: 2
+  locations: "Ukraine"
+
+UGX:
+  num: 800
+  currency: Ugandan shilling
+  e: 0
+  locations: "Uganda"
+
+USD:
+  num: 840
+  currency: United States dollar
+  e: 2
+  locations: "American Samoa, British Indian Ocean Territory, Caribbean Netherlands, Ecuador, El Salvador, Guam, Haiti, Marshall Islands, Micronesia, Northern Mariana Islands, Palau, Panama, Puerto Rico, Timor-Leste, Turks and Caicos Islands, United States, Virgin Islands, Bermuda (as well as Bermudian Dollar)"
+
+USN:
+  num: 997
+  currency: United States dollar (next day) (funds code)
+  e: 2
+  locations: "United States"
+
+USS:
+  num: 998
+  currency: United States dollar (same day) (funds code) (one source[who?] claims it is no longer used, but it is still on the ISO 4217-MA list)
+  e: 2
+  locations: "United States"
+
+UYU:
+  num: 858
+  currency: Uruguayan peso
+  e: 2
+  locations: "Uruguay"
+
+UZS:
+  num: 860
+  currency: Uzbekistan som
+  e: 2
+  locations: "Uzbekistan"
+
+VEF:
+  num: 937
+  currency: Venezuelan bolvar fuerte
+  e: 2
+  locations: "Venezuela"
+
+VND:
+  num: 704
+  currency: Vietnamese ng
+  e: 0
+  locations: "Vietnam"
+
+VUV:
+  num: 548
+  currency: Vanuatu vatu
+  e: 0
+  locations: "Vanuatu"
+
+WST:
+  num: 882
+  currency: Samoan tala
+  e: 2
+  locations: "Samoa"
+
+XAF:
+  num: 950
+  currency: CFA franc BEAC
+  e: 0
+  locations: "Cameroon, Central African Republic, Republic of the Congo, Chad, Equatorial Guinea, Gabon"
+
+XAG:
+  num: 961
+  currency: Silver (one troy ounce)
+  e: .
+  locations: ""
+
+XAU:
+  num: 959
+  currency: Gold (one troy ounce)
+  e: .
+  locations: ""
+
+XBA:
+  num: 955
+  currency: European Composite Unit (EURCO) (bond market unit)
+  e: .
+  locations: ""
+
+XBB:
+  num: 956
+  currency: European Monetary Unit (E.M.U.-6) (bond market unit)
+  e: .
+  locations: ""
+
+XBC:
+  num: 957
+  currency: European Unit of Account 9 (E.U.A.-9) (bond market unit)
+  e: .
+  locations: ""
+
+XBD:
+  num: 958
+  currency: European Unit of Account 17 (E.U.A.-17) (bond market unit)
+  e: .
+  locations: ""
+
+XCD:
+  num: 951
+  currency: East Caribbean dollar
+  e: 2
+  locations: "Anguilla, Antigua and Barbuda, Dominica, Grenada, Montserrat, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines"
+
+XDR:
+  num: 960
+  currency: Special Drawing Rights
+  e: .
+  locations: "International Monetary Fund"
+
+XFU:
+  num: Nil
+  currency: UIC franc (special settlement currency)
+  e: .
+  locations: "International Union of Railways"
+
+XOF:
+  num: 952
+  currency: CFA Franc BCEAO
+  e: 0
+  locations: "Benin, Burkina Faso, Cte d'Ivoire, Guinea-Bissau, Mali, Niger, Senegal, Togo"
+
+XPD:
+  num: 964
+  currency: Palladium (one troy ounce)
+  e: .
+  locations: ""
+
+XPF:
+  num: 953
+  currency: CFP franc
+  e: 0
+  locations: "French Polynesia, New Caledonia, Wallis and Futuna"
+
+XPT:
+  num: 962
+  currency: Platinum (one troy ounce)
+  e: .
+  locations: ""
+
+XTS:
+  num: 963
+  currency: Code reserved for testing purposes
+  e: .
+  locations: ""
+
+XXX:
+  num: 999
+  currency: No currency
+  e: .
+  locations: ""
+
+YER:
+  num: 886
+  currency: Yemeni rial
+  e: 0
+  locations: "Yemen"
+
+ZAR:
+  num: 710
+  currency: South African rand
+  e: 2
+  locations: "South Africa"
+
+ZMK:
+  num: 894
+  currency: Zambian kwacha
+  e: 0
+  locations: "Zambia"
+
+ZWL:
+  num: 932
+  currency: Zimbabwe dollar
+  e: 2
+  locations: "Zimbabwe"
+

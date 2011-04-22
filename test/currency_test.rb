@@ -4,7 +4,7 @@ class CurrencyTest < Test::Unit::TestCase
   
   test "Currency['HKD'] grabs all the data for HKDs" do
     assert_equal(
-    {:code => "HKD", :num => 344, :e => 2, :currency => "Hong Kong dollar", :locations => "Hong Kong Special Administrative Region"},
+    {"num" => 344, "e" => 2, "currency" => "Hong Kong dollar", "locations" => "Hong Kong Special Administrative Region, Macau Special Administrative Region"},
     Cashish::Currency["HKD"])
   end
 

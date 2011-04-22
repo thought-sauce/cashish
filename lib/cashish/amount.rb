@@ -74,7 +74,7 @@ module Cashish
     end
     
     def decimal_places
-      currency_data[:e]
+      currency_data["e"]
     end
 
     def decimal_value
