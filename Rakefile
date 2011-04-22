@@ -23,9 +23,9 @@ spec = Gem::Specification.new do |s|
   s.name              = "cashish"
   s.version           = "0.1.0"
   s.summary           = "Currency Handling done simple"
-  s.author            = "Matthew Rudy Jacobs"
-  s.email             = "MatthewRudyJacobs@gmail.com"
-  s.homepage          = "https://github.com/matthewrudy/cashish"
+  s.author            = "Thought Sauce"
+  s.email             = "hello@thought-sauce.com"
+  s.homepage          = "https://github.com/thought-sauce/cashish"
   
   # You should probably have a README of some kind. Change the filename
   # as appropriate
