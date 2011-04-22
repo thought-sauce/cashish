@@ -553,7 +553,7 @@ MDL:
 MGA:
   num: 969
   currency: Malagasy ariary
-  e: 0.69897...[2]
+  e: 0.69897
   locations: "Madagascar"
 
 MKD:
@@ -583,7 +583,7 @@ MOP:
 MRO:
   num: 478
   currency: Mauritanian ouguiya
-  e: 0.69897...[2]
+  e: 0.69897
   locations: "Mauritania"
 
 MUR:

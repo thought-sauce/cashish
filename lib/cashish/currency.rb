@@ -14,7 +14,15 @@ module Cashish
       extend ActiveSupport::Memoizable
       
       def find_by_code(code)
-        CURRENCIES[code] || raise(MissingCurrencyException, "no currency #{code}")
+        if currency = CURRENCIES[code]
+          if currency["e"].is_a?(Fixnum)
+            currency
+          else
+            raise "I don't know how to handle this currency #{code} with e=#{currency["e"]}"
+          end
+        else
+          raise(MissingCurrencyException, "no currency #{code}")
+        end
       end
       memoize :find_by_code
       
